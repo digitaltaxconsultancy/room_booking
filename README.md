@@ -24,5 +24,4 @@ A complete hotel room booking system built with Laravel featuring room managemen
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/digitaltaxconsultancy/room-booking-system.git
-   cd room-booking-system
+   git clone https://github.com/digitaltaxconsultancy/room_booking.git
